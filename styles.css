@@ -1,0 +1,41 @@
+html {
+    background-color: black;
+    color: white;
+    font-size: 32px;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+h1 {
+    text-align: center;
+}
+
+.links {
+    color: black;
+    background-color: lightblue;
+    display: inline;
+}
+body {
+    text-align: center;
+}
+
+h2,
+h3,
+p {
+    color: pink;
+}
+
+h3,
+li {
+    text-align: left;
+}
+
+.subtitles,
+#listings {
+    text-align: left;
+    font-size: 28px;
+}
+
+#listings {
+    font-size: 24px;
+    color: aquamarine;
+}
